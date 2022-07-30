@@ -1,0 +1,43 @@
+{
+	"name": "electronic-dawn-theme",
+	"displayName": "Electronic Dawn Theme",
+	"description": "A slightly altered version of the Electronic Moonlight theme.",
+	"author": {
+		"name": "Noah Raskin"
+	},
+	"publisher": "isaaccodes",
+	"version": "0.1.5",
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IsaacArnold/electronic-moonlight-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Electronic Dawn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Electronic Dawn Theme-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#1d1f31",
+		"theme": "dark"
+	},
+	"icon": "images/ed--logo.png",
+	"keywords": [
+		"Electron",
+		"Moonlight theme",
+		"Dark theme",
+		"purple",
+		"blue",
+		"best dark theme",
+		"trending dark theme"
+	]
+}
