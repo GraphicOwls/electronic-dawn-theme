@@ -912,14 +912,14 @@
 			"scope": ["variable.language"],
 			"settings": {
 				"foreground": "#FF757F",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
 			"scope": ["entity.name.method.js"],
 			"settings": {
 				"foreground": "#82AAFF",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -954,7 +954,7 @@
 			],
 			"settings": {
 				"foreground": "#C099FF",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1056,7 +1056,7 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 			],
 			"settings": {
 				"foreground": "#FF757F",
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1323,7 +1323,7 @@
 				"string.unquoted.js"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{

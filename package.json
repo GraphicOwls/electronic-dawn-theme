@@ -5,8 +5,8 @@
 	"author": {
 		"name": "Noah Raskin"
 	},
-	"publisher": "isaaccodes",
-	"version": "0.1.5",
+	"publisher": "NoahRaskin",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.58.0"
 	},
