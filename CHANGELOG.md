@@ -3,6 +3,13 @@ All notable changes to the "electronic-dawn-theme" extension will be documented 
 
 ### [Unreleased]
 
+### [1.1.3] - 2022-08-01
+#### Fixed
+- Fixed inconsistent italics for TS files
+#### Changed
+- Made Editor Highlight Selection clearer & more saturated
+- Made app Highlight Selection clearer & more saturated
+
 ### [1.1.2] - 2022-08-01
 #### Changed
 - Fixed contrast for Debugging Status Bar

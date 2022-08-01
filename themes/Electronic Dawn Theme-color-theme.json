@@ -29,7 +29,7 @@
 		"editor.findMatchHighlightBackground": "#444a73",
 		"editor.foreground": "#c8d3f5",
 		"editor.lineHighlightBackground": "#99bbff0a",
-		"editor.selectionBackground": "#e6eeff21",
+		"editor.selectionBackground": "#7da3f534",
 		"editor.selectionHighlightBackground": "#444a73",
 		"editorBracketMatch.background": "#222436",
 		"editorBracketMatch.border": "#82aaffbb",
@@ -136,7 +136,7 @@
 		"scrollbarSlider.activeBackground": "#82aaff",
 		"scrollbarSlider.background": "#828bb830",
 		"scrollbarSlider.hoverBackground": "#a9b8e830",
-		"selection.background": "#c8d3f5",
+		"selection.background": "#7da3f546",
 		"settings.checkboxBackground": "#131421",
 		"settings.checkboxBorder": "#00000066",
 		"settings.checkboxForeground": "#c8d3f5",
@@ -693,6 +693,17 @@
 		},
 		{
 			"scope": [
+				"keyword.control.default",
+				"meta.block",
+				"meta.export",
+				"source"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
 				"entity.name.tag",
 				"meta.tag",
 				"markup.deleted.git_gutter"
@@ -1151,7 +1162,7 @@
 			}
 		},
 		{
-			"scope": ["meta.jsx.children", "meta.embedded.block"],
+			"scope": ["meta.children", "meta.embedded.block"],
 			"settings": {
 				"foreground": "#B4C2F0"
 			}
@@ -1359,7 +1370,7 @@
 		{
 			"scope": [
 				"JSXStartTagEnd",
-				"punctuation.definition.tag.jsx",
+				"punctuation.definition.tag",
 				"keyword.operator",
 				"punctuation.definition.string",
 				"punctuation.terminator.statement.js"
