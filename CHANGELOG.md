@@ -2,6 +2,11 @@
 All notable changes to the "electronic-dawn-theme" extension will be documented in this file. Please [create an issue](https://github.com/GraphicOwls/electronic-dawn-theme/issues) to report any faulty styles or to simply share your feedback.
 <!-- ### [Unreleased] -->
 
+## [1.1.4] - 2022-08-01
+`Fixed`
+- Fixed some token colors and font-style settings after more TS file debugging
+<br>
+
 ## [1.1.3] - 2022-08-01
 `Fixed`
 - Fixed inconsistent italics for TS files
