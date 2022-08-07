@@ -14,8 +14,10 @@
 		"breadcrumb.focusForeground": "#c8d3f5",
 		"breadcrumb.foreground": "#828bb8",
 		"breadcrumbPicker.background": "#1e2030",
-		"button.background": "#3e68d7",
-		"button.hoverBackground": "#65bcffcc",
+		"button.background": "#82aaff",
+		"button.foreground": "#191a2a",
+		"button.hoverBackground": "#a7c3ff",
+		"button.border": "#82aaff00",
 		"contrastBorder": "#191a2a",
 		"debugToolBar.background": "#1e2030",
 		"diffEditor.insertedTextBackground": "#c3e88d15",
@@ -95,7 +97,7 @@
 		"list.focusBackground": "#131421",
 		"list.focusForeground": "#c8d3f5",
 		"list.highlightForeground": "#86e1fc",
-		"list.hoverBackground": "#1e2030",
+		"list.hoverBackground": "#383e5c50",
 		"list.hoverForeground": "#c8d3f5",
 		"list.inactiveSelectionBackground": "#292e46",
 		"list.inactiveSelectionForeground": "#c8d3f5",
@@ -137,12 +139,14 @@
 		"scrollbarSlider.background": "#828bb830",
 		"scrollbarSlider.hoverBackground": "#a9b8e830",
 		"selection.background": "#7da3f546",
-		"settings.checkboxBackground": "#131421",
-		"settings.checkboxBorder": "#00000066",
+		"settings.checkboxBackground": "#191a2a",
+		"settings.checkboxBorder": "#191a2a",
 		"settings.checkboxForeground": "#c8d3f5",
 		"settings.dropdownBackground": "#2f334d",
 		"settings.dropdownBorder": "#191a2a",
 		"settings.dropdownForeground": "#c8d3f5",
+		"settings.focusedRowBackground": "#7da3f509",
+		"settings.focusedRowBorder": "#43578357",
 		"settings.headerForeground": "#82aaff",
 		"settings.modifiedItemIndicator": "#82aaff",
 		"settings.numberInputBackground": "#191a2a",
@@ -712,7 +716,7 @@
 		{
 			"scope": ["meta.jsx.children"],
 			"settings": {
-				"foreground": "#bbc9d7"
+				"foreground": "#b5c4ed"
 			}
 		},
 		{
